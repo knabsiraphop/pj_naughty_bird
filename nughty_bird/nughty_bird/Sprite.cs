@@ -13,7 +13,7 @@ namespace nughty_bird
     {
         private Vector2 position;
         private Texture2D texture;
-        private Rectangle sourceRectangle;
+        private Rectangle sourceRectangle;     
 
     }
 }
